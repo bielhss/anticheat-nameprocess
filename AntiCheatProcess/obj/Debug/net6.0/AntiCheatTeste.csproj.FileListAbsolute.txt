@@ -1,0 +1,15 @@
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\bin\Debug\net6.0\AntiCheatTeste.exe
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\bin\Debug\net6.0\AntiCheatTeste.deps.json
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\bin\Debug\net6.0\AntiCheatTeste.runtimeconfig.json
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\bin\Debug\net6.0\AntiCheatTeste.dll
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\bin\Debug\net6.0\AntiCheatTeste.pdb
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.csproj.AssemblyReference.cache
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.AssemblyInfoInputs.cache
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.AssemblyInfo.cs
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.csproj.CoreCompileInputs.cache
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.dll
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\refint\AntiCheatTeste.dll
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.pdb
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\AntiCheatTeste.genruntimeconfig.cache
+D:\FACULDADE\TCC\Programas\Anti Cheat\AntiCheatTeste\AntiCheatTeste\obj\Debug\net6.0\ref\AntiCheatTeste.dll
